@@ -17,6 +17,6 @@ numpy1.23.3 \
 gudhi3.5.0 \
 matplotlib3.3.1 
 
-
+Please cite the paper : https://chemrxiv.org/engage/chemrxiv/article-details/63c5f05a07308a57c49afe05
 
 
